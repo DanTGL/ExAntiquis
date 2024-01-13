@@ -20,7 +20,7 @@
     "main": [
       {
         "adapter": "kotlin",
-        "value": "turniplabs.examplemod.ExampleMod"
+        "value": "dantgl.exantiquis.ExAntiquisMod"
       }
     ]
   },
